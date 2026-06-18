@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Ella me mira con esa actitud de gata
+> Sabe que esta noche la luna la desata
+> Un flow de Madrid, un perreo que arrebata
+> Mi obsesión marchita, pero su fuego me mata
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
