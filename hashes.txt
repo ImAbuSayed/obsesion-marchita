@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Obsesión marchita
+
+This log tracks the cryptographic history and versioning for the song **Obsesión marchita** (obsesion-marchita).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-18T06:40:25.485629 | `v1` | `7c543a003644c9c09317b004932c2e6ab5319aff9581944dd75ca4cdc8626b06` | `da82129517c9d26d1622394320f5c5243ff859dee6de7d9eb7329b20f3d0e423` | `2026-06-18_obsesion-marchita-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
